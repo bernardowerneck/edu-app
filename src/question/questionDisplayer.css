@@ -1,0 +1,5 @@
+.displayer
+{
+    display: flex;
+    flex-wrap: wrap;
+}
